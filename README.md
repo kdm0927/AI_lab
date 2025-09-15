@@ -9,7 +9,7 @@ Damin Kim 2023041066
 - CUDA Support: Available (1 device)
 
 ### Software Stack
-- Python: 3.10.0  
+- Python: 3.11.7  
 - PyTorch: 2.8.0+cu128 (CUDA-enabled)  
 - Jupyter Notebook: Configured and operational  
 
